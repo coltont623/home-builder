@@ -1,0 +1,11 @@
+[package]
+name = "home_builder"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.13"
+imgui = "0.11"
+
+[build-dependencies]
+cc = "1.0"
